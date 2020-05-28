@@ -1,0 +1,13 @@
+build/
+gradle/
+.gradle/
+.idea/
+out/
+._DS*
+gradlew
+gradlew.bat
+
+*~
+*.bak
+*.idea
+*.iml
